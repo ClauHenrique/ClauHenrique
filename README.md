@@ -5,12 +5,15 @@
 </div>
 
 <div style="display: inline_block; justify-content: center"><br>
-  <h3>Ferramentas e Tecnologias</h3>
+  <h3>Ferramentas e Tecnologias:</h3>
   <br>
   <img align="center" alt="Node" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Vue" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img align="center" alt="nest" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align="center" alt="python" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
   <img align="center" alt="mysql" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  
+   <h3>Atualmente estudando:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
   
